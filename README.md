@@ -24,7 +24,7 @@ In the Cosmos ecosystem, RPC nodes are required for applications to:
 1. Read data from the blockchain and present it to the users.
 2. Receive signed user transactions from wallets and propagate these to the rest of the peer-to-peer (P2P) network, to be used by the validators in building the blocks.
 ---
-![](https://github.com/FidelChe//How-To-Use-RPCs-on-COSMOS/blob/main/files/RPCs1.png?raw=true)
+![](https://github.com/EdwinLiavaa/How-To-Use-RPCs-on-COSMOS/blob/main/files/RPCs1.png?raw=true)
 
 ### The 5 steps as sequence of events when making an RPC method call:
 
@@ -63,7 +63,7 @@ Like Ethereum, the stateless and lightweight JSON-RPC remote procedure call (RPC
 2. Notifications (data sent to the server that does not require a response).
 3. Multiple calls to be sent to the server which may be answered asynchronously.
 ---
-![](https://github.com/FidelChe//How-To-Use-RPCs-on-COSMOS/blob/main/files/RPCs2.png?raw=true)
+![](https://github.com/EdwinLiavaa/How-To-Use-RPCs-on-COSMOS/blob/main/files/RPCs2.png?raw=true)
 
 ### Examples – How RPCs work using the Cosmos SDK Stargate in CosmJS compared to Ethereum:
 
@@ -75,7 +75,7 @@ or
 
 yarn add @cosmjs/proto-signing @cosmjs/stargate
 ---
-![](https://github.com/FidelChe//How-To-Use-RPCs-on-COSMOS/blob/main/files/Install.png?raw=true)
+![](https://github.com/EdwinLiavaa/How-To-Use-RPCs-on-COSMOS/blob/main/files/Install.png?raw=true)
 
 ### How to send your first Stargate transaction from JavaScript:
 
