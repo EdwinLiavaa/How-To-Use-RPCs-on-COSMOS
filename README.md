@@ -68,9 +68,11 @@ Like Ethereum, the stateless and lightweight JSON-RPC remote procedure call (RPC
 ### Examples – How RPCs work using the Cosmos SDK Stargate in CosmJS compared to Ethereum:
 
 First you need to install Install CosmJS ^0.24.0:
+
 • npm install @cosmjs/proto-signing @cosmjs/stargate
 or
 • yarn add @cosmjs/proto-signing @cosmjs/stargate
+
 ---
 ![](https://github.com/EdwinLiavaa/How-To-Use-RPCs-on-COSMOS/blob/main/files/Install.png?raw=true)
 
