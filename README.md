@@ -1,3 +1,4 @@
+![](https://github.com/EdwinLiavaa/How-To-Use-RPCs-on-COSMOS/blob/main/files/header.png?raw=true)
 # How-To-Use-RPCs-on-COSMOS
 ## Introducing RPCs and how to use them specifically in the Cosmos Ecosystem:
 
