@@ -4,7 +4,7 @@
 
 In Web3, dApps (decentralized applications) need a way to communicate with blockchains. Without a means of communication, dApps won’t be able to access information and make transactions on the blockchain on which they operate. This connection between the blockchain and the dApps is facilitated by RPC nodes.
 
-A remote procedure call (RPC) is a communication protocol used primarily between client and server.
+A remote procedure call (RPC) is a communication protocol used primarily between a client and a server.
 ## The 3 definitions of RPC that are often used interchangeably:
 
 1. The RPC **runtime**: a runtime environment providing for communication facilities between
