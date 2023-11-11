@@ -2,7 +2,7 @@
 # How-To-Use-RPCs-on-COSMOS
 ## Introducing RPCs and how to use them specifically in the Cosmos Ecosystem:
 
-In Web3, all dApps (decentralized applications) need a way to communicate with blockchains. Without a means of communication, dApps won’t be able to access information and make transactions on the blockchain on which they operate. This connection between the blockchain and the dApps is facilitated by RPC nodes.
+In Web3, dApps (decentralized applications) need a way to communicate with blockchains. Without a means of communication, dApps won’t be able to access information and make transactions on the blockchain on which they operate. This connection between the blockchain and the dApps is facilitated by RPC nodes.
 
 A remote procedure call (RPC) is a communication protocol used primarily between client and server.
 ## The 3 definitions of RPC that are often used interchangeably:
