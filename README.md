@@ -14,7 +14,7 @@ computers.
 
 ## Web2 v Web3 and the use of RPCs:
 
-The fundamental existence of a blockchain is driven by the notion that each client can run its own node, which communicates and maintains a copy of the latest “State” of the network. In contrast to Web2, applications communicate with back-end servers that connect to databases using for example ODBC or ADO to store and access data. In Web3, applications access blockchain data using nodes, and communication with these nodes are done through RPCs.
+The fundamental existence of a Blockchain is driven by the notion that each client can run its own node, which communicates and maintains a copy of the latest “State” of the network. In contrast to Web2, applications communicate with back-end servers that connect to databases using for example ODBC or ADO to store and access data. In Web3, applications access blockchain data using nodes, and communication with these nodes are done through RPCs.
 
 All in all, in order to access the “State”, the nodes expose RPC endpoints (network-specific address of a server process). The RPC nodes can be run locally or accessed remotely, but due to the impracticality of privately running and maintaining a node, blockchain data is typically accessed through node provider services or public endpoints supported by ecosystem grants.
 
